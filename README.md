@@ -14,7 +14,6 @@ The goal was to:
 ## 🔗 Live Demo
 
 👉 lilac-clone-flax.vercel.app 
-👉 https://www.loom.com/share/f6114588104e418a9903d34c9b879d52
 
 ---
 
